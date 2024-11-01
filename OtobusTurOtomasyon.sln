@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurOtomasyonForm", "TurOtomasyonForm\TurOtomasyonForm.csproj", "{F505CC1D-85F4-4E5D-AB08-1E64688DF0E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F505CC1D-85F4-4E5D-AB08-1E64688DF0E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F505CC1D-85F4-4E5D-AB08-1E64688DF0E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F505CC1D-85F4-4E5D-AB08-1E64688DF0E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F505CC1D-85F4-4E5D-AB08-1E64688DF0E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {128C514F-DD9F-4B96-8B01-BFFB555427EE}
+	EndGlobalSection
+EndGlobal
